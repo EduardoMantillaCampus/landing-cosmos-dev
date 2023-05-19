@@ -8,7 +8,7 @@ particlesJS({
         }
       },
       "color": {
-        "value": "#08fdd8"
+        "value": "#FF8C3D"
       },
       "shape": {
         "type": "circle",
@@ -54,7 +54,7 @@ particlesJS({
       },
       "move": {
         "enable": true,
-        "speed": 11.048066982851818,
+        "speed": 2,
         "direction": "none",
         "random": false,
         "straight": false,
